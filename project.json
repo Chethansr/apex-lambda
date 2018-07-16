@@ -1,0 +1,8 @@
+{
+  "name": "apex_lambda",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::219427621059:role/apex_lambda_lambda_function",
+  "environment": {}
+}
